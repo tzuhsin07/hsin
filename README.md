@@ -5,7 +5,7 @@
 系級：科技系二年級
 
 ## 課程筆記區
-* [筆記一](https://github.com/tzuhsin07/hsin/blob/main/practice/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
+* [筆記一](https://github.com/tzuhsin07/hsin/blob/main/practice/.ipynb_checkpoints/PRACTICE.ipynb)
 ## 作業連結區
 * [作業一](https://github.com/tzuhsin07/hsin/blob/main/hw1/.ipynb_checkpoints/covid_3Question.ipynb)
 ## 專題連結區
