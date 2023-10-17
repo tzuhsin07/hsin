@@ -8,5 +8,6 @@
 * [筆記一](https://github.com/tzuhsin07/hsin/blob/main/practice/.ipynb_checkpoints/practice_note.ipynb)
 ## 作業連結區
 * [作業一](https://github.com/tzuhsin07/hsin/blob/main/hw1/.ipynb_checkpoints/covid_3Question.ipynb)
+* [作業二](https://github.com/tzuhsin07/hsin/blob/main/hw2/3q.ipynb)
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
