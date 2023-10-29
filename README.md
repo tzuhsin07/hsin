@@ -9,6 +9,6 @@
 ## 作業連結區
 * [作業一](https://github.com/tzuhsin07/hsin/blob/main/hw1/.ipynb_checkpoints/covid_3Question.ipynb)
 * [作業二](https://github.com/tzuhsin07/hsin/blob/main/hw2/3q.ipynb)
-* [作業三][PPT-NBA](https://github.com/tzuhsin07/hsin/blob/main/HW3/.ipynb_checkpoints/web_crawler-checkpoint.ipynb)
+* [作業三][1](https://github.com/tzuhsin07/hsin/blob/main/HW3/.ipynb_checkpoints/web_crawler-checkpoint.ipynb)
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
